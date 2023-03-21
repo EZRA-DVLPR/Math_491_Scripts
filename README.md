@@ -12,3 +12,8 @@ In a general sense, they will take a function and perform the desired technique 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I hope that people who are looking for circumventing the laborious task of doing these techniques by hand may stumble upon this github repo and be able to use them.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+See:
+https://www.isical.ac.in/~arnabc/numana/interpol1.html
